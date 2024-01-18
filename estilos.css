@@ -1,0 +1,14 @@
+		/*ESTO ES UN COMENTARIO DE UNA REGLA CSS*/
+		h2,p{font-style: oblique;
+			color: #063970;
+			font-family: verdana;
+		}
+	
+
+
+	div p.colordelParrafo{color: blue;}
+
+	p.colorRosa{background: pink;}
+
+
+	h2.colorRosa, p.colorRosa {font-size="35px"}
